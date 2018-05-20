@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hitting Reset"
-date:       2018-05-20 12:30:32 +0000
+date:       2018-05-20 08:30:33 -0400
 permalink:  hitting_reset
 ---
 
