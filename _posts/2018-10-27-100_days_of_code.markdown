@@ -1,0 +1,18 @@
+---
+layout: post
+title:      "100 Days Of Code"
+date:       2018-10-27 17:20:53 +0000
+permalink:  100_days_of_code
+---
+
+
+I love UI!  It's what drew me to full stack web development.  I was ready for a change and I know I loved designing websites, but I knew nothing about the backend and I wanted to be able to design and develop my ideas.  This led me to Flatiron.  While the back-end education is well rounded I needed something to keep my creative ideas flowing and decided to do a 100 days of UI challenge.  While doing my daily scroll through [dribble.com ](http://https://dribbble.com/) I came across some great challenges and decided to give it a go.  This what I would expand my knowledge of development while nourishing my creative side.  
+
+I signed up for the 100 days of emails from dailyui.co and every morning I woke to a quick 30-minute front end challenge.  The projects are pretty basic, designing apps, icons or pages but I also found this was helpful because as the Flatiron projects began to mount, I had a cache of ideas that I could further develop into apps.  
+
+
+My single page mailing list challenge turned into my Sinatra MVC app.  I was able to use the mock-up I had created as a mailing list sign up page and turn it into a web page that allowed people to sign up for a mailing list and remove and update the info while also allowing the page owner to view the mailing list and edit it.  I spend no more than 30 minutes a day on my UI challenge and in return I have a trove of portfolio material just waiting for me to further develop using the skills I am learning at Flatiron.
+
+
+
+
